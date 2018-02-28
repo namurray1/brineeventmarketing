@@ -1,6 +1,14 @@
+/* image */
+
 html,
 body {
     height: 100%;
+}
+
+/* font instructions */
+
+body {
+    font-family: 'Quicksand', sans-serif;
 }
 
 .bgimage {
@@ -11,28 +19,18 @@ body {
     background-size: cover;
 }
 
-/* .container{
-    
- } */
-
 .text-block {
     background-color: rgb(37, 36, 36);
     opacity: 0.8;
     width: 100px;
     margin: auto;
     position: relative;
-    top: 400px;
+    top: 365px;
 }
 
-.cs {
+.cs,
+.be {
     color: rgb(225, 225, 225);
     padding: 20px;
-}
-
-/* look at adding a text block in the middle */
-
-/* font family */
-
-body {
-    font-family: 'Quicksand', sans-serif;
+    text-align: center;
 }
