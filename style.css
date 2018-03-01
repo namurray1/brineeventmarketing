@@ -28,6 +28,16 @@ body {
     top: 365px;
 }
 
+#id {
+    white-space: normal;
+    text-decoration: none;
+    
+}
+
+#cmbutton{
+    margin: 30px;
+}
+
 .cs,
 .be {
     color: rgb(225, 225, 225);
